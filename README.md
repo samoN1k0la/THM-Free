@@ -1,23 +1,24 @@
-
-<h2>Intro: (Completed)</h2>
+<p>Current number of rooms: <b>347</b></p>
+<br/>
+<h2>Intro:</h2>
 https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/howtousetryhackme
-<br/>https://tryhackme.com/room/gettingstarted
-<br/>https://tryhackme.com/room/welcome
-<br/>https://tryhackme.com/room/tutorial
-<br/>https://tryhackme.com/room/openvpn
-<br/>https://tryhackme.com/room/beginnerpathintro
-<br/>https://tryhackme.com/room/startingoutincybersec
-<br/>https://tryhackme.com/room/introtoresearch
+<br/>https://tryhackme.com/room/gettingstarted - Completed
+<br/>https://tryhackme.com/room/welcome - Completed
+<br/>https://tryhackme.com/room/tutorial - Completed
+<br/>https://tryhackme.com/room/openvpn - Completed
+<br/>https://tryhackme.com/room/beginnerpathintro - Completed
+<br/>https://tryhackme.com/room/startingoutincybersec - Completed
+<br/>https://tryhackme.com/room/introtoresearch - Completed
 <br/>
 <br/>
 <h2>Basics Rooms:</h2>
-<br/>https://tryhackme.com/room/linux2
+<br/>https://tryhackme.com/room/linux2 - Completed
 <br/>https://tryhackme.com/room/linuxmodules
 <br/>https://tryhackme.com/room/linuxfundamentalspart1 - Completed
 <br/>https://tryhackme.com/room/linuxfundamentalspart2 - Completed
 <br/>https://tryhackme.com/room/linuxfundamentalspart3 - Completed
-<br/>https://tryhackme.com/room/basicpentestingjt - Completed
+<br/>https://tryhackme.com/room/basicpentestingjt
 <br/>https://tryhackme.com/room/pentestingfundamentals
 <br/>https://tryhackme.com/room/principlesofsecurity
 <br/>https://tryhackme.com/room/ccpentesting
@@ -26,18 +27,17 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/linuxstrengthtraining
 <br/>https://tryhackme.com/room/catregex
 <br/>https://tryhackme.com/room/openvas
-<br/>https://tryhackme.com/room/btmisp
 <br/>https://tryhackme.com/room/iso27001
 <br/>https://tryhackme.com/room/ultratech1
 <br/>
 <br/>
 <h2>Recon:</h2>
-<br/>https://tryhackme.com/room/passiverecon
-<br/>https://tryhackme.com/room/activerecon
+<br/>https://tryhackme.com/room/passiverecon - Completed
+<br/>https://tryhackme.com/room/activerecon - Completed
 <br/>https://tryhackme.com/room/contentdiscovery
-<br/>https://tryhackme.com/room/ohsint
+<br/>https://tryhackme.com/room/ohsint - Completed
 <br/>https://tryhackme.com/room/shodan
-<br/>https://tryhackme.com/room/googledorking
+<br/>https://tryhackme.com/room/googledorking - Completed
 <br/>https://tryhackme.com/room/searchlightosint
 <br/>https://tryhackme.com/room/webosint
 <br/>https://tryhackme.com/room/sakura
@@ -50,70 +50,60 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/intropocscripting
 <br/>https://tryhackme.com/room/peakhill
 <br/>https://tryhackme.com/room/javascriptbasics
-<br/>https://tryhackme.com/room/bashscripting
+<br/>https://tryhackme.com/room/bashscripting - Completed
 <br/>https://tryhackme.com/room/rust
 <br/>https://tryhackme.com/room/yara
 <br/>
 <br/>
 <h2>Networking:</h2>
-<br/>https://tryhackme.com/room/introtonetworking
-<br/>https://tryhackme.com/room/whatisnetworking
-<br/>https://tryhackme.com/room/bpnetworking
-<br/>https://tryhackme.com/room/introtolan
+<br/>https://tryhackme.com/room/introtonetworking - Completed
+<br/>https://tryhackme.com/room/whatisnetworking - Completed
+<br/>https://tryhackme.com/room/introtolan - Completed
 <br/>https://tryhackme.com/room/httpindetail
 <br/>https://tryhackme.com/room/dnsindetail
 <br/>https://tryhackme.com/room/rfirmware
 <br/>
 <br/>
 <h2>Tooling:</h2>
-<br/>https://tryhackme.com/room/metasploitintro
-<br/>https://tryhackme.com/room/rpmetasploit
-<br/>https://tryhackme.com/room/rptmux
+<br/>https://tryhackme.com/room/metasploitintro - Completed
+<br/>https://tryhackme.com/room/rptmux - Completed
 <br/>https://tryhackme.com/room/tmuxremux
 <br/>https://tryhackme.com/room/hydra
-<br/>https://tryhackme.com/room/rpsublist3r
 <br/>https://tryhackme.com/room/toolboxvim
 <br/>https://tryhackme.com/room/learnowaspzap
 <br/>https://tryhackme.com/room/phishinghiddeneye
-<br/>https://tryhackme.com/room/rustscan
+<br/>https://tryhackme.com/room/rustscan - Completed
 <br/>https://tryhackme.com/room/rpnessusredux
 <br/>https://tryhackme.com/room/nmap01
-<br/>https://tryhackme.com/room/furthernmap
+<br/>https://tryhackme.com/room/furthernmap - Completed
 <br/>https://tryhackme.com/room/tshark
 <br/>https://tryhackme.com/room/ffuf
-<br/>https://tryhackme.com/room/burpsuitebasics
-<br/>https://tryhackme.com/room/burpsuiterepeater
+<br/>https://tryhackme.com/room/burpsuitebasics - Completed
+<br/>https://tryhackme.com/room/burpsuiterepeater - Completed
 <br/>
 <br/>
 <h2>Crypto & Hashes:</h2>
 <br/>https://tryhackme.com/room/cryptographyfordummies
 <br/>https://tryhackme.com/room/crackthehash
 <br/>https://tryhackme.com/room/crackthehashlevel2
-<br/>https://tryhackme.com/room/passwordsecurity
 <br/>https://tryhackme.com/room/agentsudoctf
 <br/>https://tryhackme.com/room/bruteit
 <br/>
 <br/>
 <h2>Web:</h2>
-<br/>https://tryhackme.com/room/webfundamentals
-<br/>https://tryhackme.com/room/webappsec101
 <br/>https://tryhackme.com/room/vulnerabilities101
 <br/>https://tryhackme.com/room/walkinganapplication
 <br/>https://tryhackme.com/room/owasptop10
 <br/>https://tryhackme.com/room/owaspjuiceshop
-<br/>https://tryhackme.com/room/rpwebscanning
 <br/>https://tryhackme.com/room/owaspmutillidae
 <br/>https://tryhackme.com/room/webgoat
 <br/>https://tryhackme.com/room/dvwa
 <br/>https://tryhackme.com/room/vulnnet1
 <br/>https://tryhackme.com/room/juicydetails
 <br/>https://tryhackme.com/room/vulnversity
-<br/>https://tryhackme.com/room/injection
-<br/>https://tryhackme.com/room/lfibasics
-<br/>https://tryhackme.com/room/inclusion
 <br/>https://tryhackme.com/room/sqlilab
 <br/>https://tryhackme.com/room/learnssti
-<br/>https://tryhackme.com/room/sqlinjectionlm
+<br/>https://tryhackme.com/room/sqlinjectionlm - Completed
 <br/>
 <br/>
 <h2>Android:</h2>
@@ -133,20 +123,16 @@ https://tryhackme.com/room/hello
 <br/>
 <br/>
 <h2>Reverse Engineering:</h2>
-<br/>https://tryhackme.com/room/introtox8664
 <br/>https://tryhackme.com/room/win64assembly
-<br/>https://tryhackme.com/room/reverseengineering
 <br/>https://tryhackme.com/room/reverselfiles
 <br/>https://tryhackme.com/room/jvmreverseengineering
-<br/>https://tryhackme.com/room/ccradare
-<br/>https://tryhackme.com/room/ccghidra2
 <br/>https://tryhackme.com/room/aster
 <br/>https://tryhackme.com/room/classicpasswd
 <br/>https://tryhackme.com/room/reloaded
 <br/>
 <br/>
 <h2>Malware Analysis</h2>
-<br/>https://tryhackme.com/room/historyofmalware
+<br/>https://tryhackme.com/room/historyofmalware - Completed
 <br/>https://tryhackme.com/room/malmalintroductory
 <br/>https://tryhackme.com/room/basicmalwarere
 <br/>https://tryhackme.com/room/malresearching
@@ -156,7 +142,6 @@ https://tryhackme.com/room/hello
 <br/>
 <br/>
 <h2>Steganography</h2>
-<br/>https://tryhackme.com/room/ccstego
 <br/>https://tryhackme.com/room/cicada3301vol1
 <br/>https://tryhackme.com/room/musicalstego
 <br/>https://tryhackme.com/room/madness
@@ -174,22 +159,21 @@ https://tryhackme.com/room/hello
 <br/>
 <br/>
 <h2>Windows:</h2>
-<br/>https://tryhackme.com/room/windowsfundamentals1xbx
-<br/>https://tryhackme.com/room/windowsfundamentals2x0x
-<br/>https://tryhackme.com/room/windowsfundamentals3xzx
+<br/>https://tryhackme.com/room/windowsfundamentals1xbx - Completed
+<br/>https://tryhackme.com/room/windowsfundamentals2x0x - Completed
+<br/>https://tryhackme.com/room/windowsfundamentals3xzx - Completed
 <br/>https://tryhackme.com/room/investigatingwindows
 <br/>https://tryhackme.com/room/investigatingwindows2
 <br/>https://tryhackme.com/room/investigatingwindows3
-<br/>https://tryhackme.com/room/blueprint
+<br/>https://tryhackme.com/room/blueprint - Completed
 <br/>https://tryhackme.com/room/vulnnetactive
 <br/>https://tryhackme.com/room/anthem
-<br/>https://tryhackme.com/room/blue
+<br/>https://tryhackme.com/room/blue - Completed
 <br/>
 <br/>
 <h2>Active Directory:</h2>
 <br/>https://tryhackme.com/room/attacktivedirectory
-<br/>https://tryhackme.com/room/postexploit
-<br/>https://tryhackme.com/room/ustoun
+<br/>https://tryhackme.com/room/postexploit - Completed
 <br/>https://tryhackme.com/room/enterprise
 <br/>https://tryhackme.com/room/raz0rblack
 <br/>
