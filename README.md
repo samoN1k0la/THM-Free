@@ -167,7 +167,7 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/investigatingwindows3
 <br/>https://tryhackme.com/room/blueprint - Completed
 <br/>https://tryhackme.com/room/vulnnetactive
-<br/>https://tryhackme.com/room/anthem
+<br/>https://tryhackme.com/room/anthem - Completed
 <br/>https://tryhackme.com/room/blue - Completed
 <br/>
 <br/>
@@ -211,7 +211,7 @@ https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/kenobi
 <br/>https://tryhackme.com/room/bsidesgtdav
 <br/>https://tryhackme.com/room/ninjaskills
-<br/>https://tryhackme.com/room/ice
+<br/>https://tryhackme.com/room/ice - Completed
 <br/>https://tryhackme.com/room/lianyu
 <br/>https://tryhackme.com/room/thecodcaper
 <br/>https://tryhackme.com/room/blaster
