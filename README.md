@@ -1,8 +1,8 @@
 <p>Current number of rooms: <b>347</b></p>
 <br/>
 <h2>Intro:</h2>
-https://tryhackme.com/room/hello
-<br/>https://tryhackme.com/room/howtousetryhackme
+https://tryhackme.com/room/hello - Completed
+<br/>https://tryhackme.com/room/howtousetryhackme - Completed
 <br/>https://tryhackme.com/room/gettingstarted - Completed
 <br/>https://tryhackme.com/room/welcome - Completed
 <br/>https://tryhackme.com/room/tutorial - Completed
