@@ -68,12 +68,12 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/metasploitintro - Completed
 <br/>https://tryhackme.com/room/rptmux - Completed
 <br/>https://tryhackme.com/room/tmuxremux
-<br/>https://tryhackme.com/room/hydra
+<br/>https://tryhackme.com/room/hydra - Completed
 <br/>https://tryhackme.com/room/toolboxvim
 <br/>https://tryhackme.com/room/learnowaspzap
 <br/>https://tryhackme.com/room/phishinghiddeneye
 <br/>https://tryhackme.com/room/rustscan - Completed
-<br/>https://tryhackme.com/room/rpnessusredux
+<br/>https://tryhackme.com/room/rpnessusredux - Completed
 <br/>https://tryhackme.com/room/nmap01
 <br/>https://tryhackme.com/room/furthernmap - Completed
 <br/>https://tryhackme.com/room/tshark
