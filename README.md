@@ -20,7 +20,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/linuxfundamentalspart3 - Completed
 <br/>https://tryhackme.com/room/basicpentestingjt - Completed
 <br/>https://tryhackme.com/room/pentestingfundamentals - Completed
-<br/>https://tryhackme.com/room/principlesofsecurity
+<br/>https://tryhackme.com/room/principlesofsecurity - Completed
 <br/>https://tryhackme.com/room/ccpentesting - Completed
 <br/>https://tryhackme.com/room/hackermethodology
 <br/>https://tryhackme.com/room/physicalsecurityintro
