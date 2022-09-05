@@ -22,7 +22,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/pentestingfundamentals - Completed
 <br/>https://tryhackme.com/room/principlesofsecurity - Completed
 <br/>https://tryhackme.com/room/ccpentesting - Completed
-<br/>https://tryhackme.com/room/hackermethodology
+<br/>https://tryhackme.com/room/hackermethodology - Completed
 <br/>https://tryhackme.com/room/physicalsecurityintro
 <br/>https://tryhackme.com/room/linuxstrengthtraining
 <br/>https://tryhackme.com/room/catregex
