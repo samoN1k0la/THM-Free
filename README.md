@@ -36,7 +36,6 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/activerecon - Completed
 <br/>https://tryhackme.com/room/contentdiscovery
 <br/>https://tryhackme.com/room/ohsint - Completed
-<br/>https://tryhackme.com/room/shodan
 <br/>https://tryhackme.com/room/googledorking - Completed
 <br/>https://tryhackme.com/room/searchlightosint
 <br/>https://tryhackme.com/room/webosint
