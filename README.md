@@ -99,7 +99,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/dvwa
 <br/>https://tryhackme.com/room/vulnnet1
 <br/>https://tryhackme.com/room/juicydetails
-<br/>https://tryhackme.com/room/vulnversity
+<br/>https://tryhackme.com/room/vulnversity - Completed
 <br/>https://tryhackme.com/room/sqlilab
 <br/>https://tryhackme.com/room/learnssti
 <br/>https://tryhackme.com/room/sqlinjectionlm - Completed
