@@ -40,7 +40,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/searchlightosint
 <br/>https://tryhackme.com/room/webosint
 <br/>https://tryhackme.com/room/sakura
-<br/>https://tryhackme.com/room/redteamrecon
+<br/>https://tryhackme.com/room/redteamrecon - Completed
 <br/>
 <br/>
 <h2>Scripting:</h2>
@@ -58,7 +58,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/introtonetworking - Completed
 <br/>https://tryhackme.com/room/whatisnetworking - Completed
 <br/>https://tryhackme.com/room/introtolan - Completed
-<br/>https://tryhackme.com/room/httpindetail
+<br/>https://tryhackme.com/room/httpindetail - Completed
 <br/>https://tryhackme.com/room/dnsindetail
 <br/>https://tryhackme.com/room/rfirmware
 <br/>
@@ -192,7 +192,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>
 <br/>
 <h2>Easy CTF:</h2>
-<br/>https://tryhackme.com/room/gamingserver
+<br/>https://tryhackme.com/room/gamingserver - Completed
 <br/>https://tryhackme.com/room/psychobreak
 <br/>https://tryhackme.com/room/cowboyhacker
 <br/>https://tryhackme.com/room/ctf
@@ -207,13 +207,13 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/bsidesgtanonforce
 <br/>https://tryhackme.com/room/ignite
 <br/>https://tryhackme.com/room/wgelctf
-<br/>https://tryhackme.com/room/kenobi
+<br/>https://tryhackme.com/room/kenobi - Completed
 <br/>https://tryhackme.com/room/bsidesgtdav
 <br/>https://tryhackme.com/room/ninjaskills
 <br/>https://tryhackme.com/room/ice - Completed
 <br/>https://tryhackme.com/room/lianyu
 <br/>https://tryhackme.com/room/thecodcaper
-<br/>https://tryhackme.com/room/blaster
+<br/>https://tryhackme.com/room/blaster - Completed
 <br/>https://tryhackme.com/room/encryptioncrypto101
 <br/>https://tryhackme.com/room/brooklynninenine
 <br/>https://tryhackme.com/room/yearoftherabbit
