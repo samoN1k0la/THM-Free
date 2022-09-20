@@ -34,7 +34,7 @@ https://tryhackme.com/room/hello - Completed
 <h2>Recon:</h2>
 <br/>https://tryhackme.com/room/passiverecon - Completed
 <br/>https://tryhackme.com/room/activerecon - Completed
-<br/>https://tryhackme.com/room/contentdiscovery
+<br/>https://tryhackme.com/room/contentdiscovery - Completed
 <br/>https://tryhackme.com/room/ohsint - Completed
 <br/>https://tryhackme.com/room/googledorking - Completed
 <br/>https://tryhackme.com/room/searchlightosint
