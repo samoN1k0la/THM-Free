@@ -25,7 +25,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/hackermethodology - Completed
 <br/>https://tryhackme.com/room/physicalsecurityintro
 <br/>https://tryhackme.com/room/linuxstrengthtraining
-<br/>https://tryhackme.com/room/catregex
+<br/>https://tryhackme.com/room/catregex - Completed
 <br/>https://tryhackme.com/room/openvas
 <br/>https://tryhackme.com/room/iso27001
 <br/>https://tryhackme.com/room/ultratech1
