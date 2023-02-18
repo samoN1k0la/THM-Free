@@ -28,7 +28,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/catregex - Completed
 <br/>https://tryhackme.com/room/openvas
 <br/>https://tryhackme.com/room/iso27001
-<br/>https://tryhackme.com/room/ultratech1
+<br/>https://tryhackme.com/room/ultratech1 - Completed
 <br/>
 <br/>
 <h2>Recon:</h2>
