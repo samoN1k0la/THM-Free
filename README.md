@@ -69,7 +69,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/tmuxremux
 <br/>https://tryhackme.com/room/hydra - Completed
 <br/>https://tryhackme.com/room/toolboxvim
-<br/>https://tryhackme.com/room/learnowaspzap
+<br/>https://tryhackme.com/room/learnowaspzap - Completed
 <br/>https://tryhackme.com/room/phishinghiddeneye
 <br/>https://tryhackme.com/room/rustscan - Completed
 <br/>https://tryhackme.com/room/rpnessusredux - Completed
@@ -92,7 +92,7 @@ https://tryhackme.com/room/hello - Completed
 <h2>Web:</h2>
 <br/>https://tryhackme.com/room/vulnerabilities101
 <br/>https://tryhackme.com/room/walkinganapplication
-<br/>https://tryhackme.com/room/owasptop10
+<br/>https://tryhackme.com/room/owasptop10 - Completed
 <br/>https://tryhackme.com/room/owaspjuiceshop
 <br/>https://tryhackme.com/room/owaspmutillidae
 <br/>https://tryhackme.com/room/webgoat
