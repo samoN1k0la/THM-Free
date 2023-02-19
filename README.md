@@ -132,7 +132,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>
 <h2>Malware Analysis</h2>
 <br/>https://tryhackme.com/room/historyofmalware - Completed
-<br/>https://tryhackme.com/room/malmalintroductory
+<br/>https://tryhackme.com/room/malmalintroductory - Completed
 <br/>https://tryhackme.com/room/basicmalwarere
 <br/>https://tryhackme.com/room/malresearching
 <br/>https://tryhackme.com/room/mma
@@ -198,7 +198,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/ctf
 <br/>https://tryhackme.com/room/rrootme
 <br/>https://tryhackme.com/room/attackerkb
-<br/>https://tryhackme.com/room/picklerick
+<br/>https://tryhackme.com/room/picklerick - Completed
 <br/>https://tryhackme.com/room/c4ptur3th3fl4g
 <br/>https://tryhackme.com/room/bsidesgtlibrary
 <br/>https://tryhackme.com/room/bsidesgtthompson
