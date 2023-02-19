@@ -14,7 +14,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>
 <h2>Basics Rooms:</h2>
 <br/>https://tryhackme.com/room/linux2 - Completed
-<br/>https://tryhackme.com/room/linuxmodules
+<br/>https://tryhackme.com/room/linuxmodules - Completed
 <br/>https://tryhackme.com/room/linuxfundamentalspart1 - Completed
 <br/>https://tryhackme.com/room/linuxfundamentalspart2 - Completed
 <br/>https://tryhackme.com/room/linuxfundamentalspart3 - Completed
