@@ -27,7 +27,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/linuxstrengthtraining
 <br/>https://tryhackme.com/room/catregex - Completed
 <br/>https://tryhackme.com/room/openvas
-<br/>https://tryhackme.com/room/iso27001
+<br/>https://tryhackme.com/room/iso27001 - Completed
 <br/>https://tryhackme.com/room/ultratech1 - Completed
 <br/>
 <br/>
@@ -59,7 +59,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/whatisnetworking - Completed
 <br/>https://tryhackme.com/room/introtolan - Completed
 <br/>https://tryhackme.com/room/httpindetail - Completed
-<br/>https://tryhackme.com/room/dnsindetail
+<br/>https://tryhackme.com/room/dnsindetail - Completed
 <br/>https://tryhackme.com/room/rfirmware
 <br/>
 <br/>
@@ -76,7 +76,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/nmap01
 <br/>https://tryhackme.com/room/furthernmap - Completed
 <br/>https://tryhackme.com/room/tshark
-<br/>https://tryhackme.com/room/ffuf
+<br/>https://tryhackme.com/room/ffuf - Completed
 <br/>https://tryhackme.com/room/burpsuitebasics - Completed
 <br/>https://tryhackme.com/room/burpsuiterepeater - Completed
 <br/>
@@ -149,7 +149,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>
 <br/>
 <h2>PrivEsc:</h2>
-<br/>https://tryhackme.com/room/linprivesc
+<br/>https://tryhackme.com/room/linprivesc - Completed
 <br/>https://tryhackme.com/room/linuxprivesc
 <br/>https://tryhackme.com/room/linuxprivescarena
 <br/>https://tryhackme.com/room/windows10privesc
