@@ -94,7 +94,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>https://tryhackme.com/room/walkinganapplication
 <br/>https://tryhackme.com/room/owasptop10 - Completed
 <br/>https://tryhackme.com/room/owaspjuiceshop
-<br/>https://tryhackme.com/room/owaspmutillidae
+<br/>https://tryhackme.com/room/owaspmutillidae - Completed
 <br/>https://tryhackme.com/room/webgoat
 <br/>https://tryhackme.com/room/dvwa
 <br/>https://tryhackme.com/room/vulnnet1
