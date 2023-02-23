@@ -253,7 +253,7 @@ https://tryhackme.com/room/hello - Completed
 <br/>
 <br/>
 <h2>Medium CTF:</h2>
-<br/>https://tryhackme.com/room/mrrobot
+<br/>https://tryhackme.com/room/mrrobot - Completed
 <br/>https://tryhackme.com/room/goldeneye
 <br/>https://tryhackme.com/room/stuxctf
 <br/>https://tryhackme.com/room/boilerctf2
